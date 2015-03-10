@@ -1,0 +1,28 @@
+{
+  "name": "ionic-ios",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Parsus/ionic-ios",
+  "authors": [
+    "Andrew McWatters <mcwattersandrew@gmail.com>"
+  ],
+  "description": "A more conformant iOS theme for Ionic",
+  "keywords": [
+    "mobile",
+    "html5",
+    "ionic",
+    "cordova",
+    "phonegap",
+    "angularjs",
+    "angular",
+    "ios",
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
